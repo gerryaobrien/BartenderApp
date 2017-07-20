@@ -1,0 +1,9 @@
+C:\Users\gerryo\Documents\Visual Studio 2017\Projects\BartenderDataService\BartenderDataService\bin\Release\netcoreapp1.1\BartenderDataService.deps.json
+C:\Users\gerryo\Documents\Visual Studio 2017\Projects\BartenderDataService\BartenderDataService\bin\Release\netcoreapp1.1\BartenderDataService.runtimeconfig.json
+C:\Users\gerryo\Documents\Visual Studio 2017\Projects\BartenderDataService\BartenderDataService\bin\Release\netcoreapp1.1\BartenderDataService.runtimeconfig.dev.json
+C:\Users\gerryo\Documents\Visual Studio 2017\Projects\BartenderDataService\BartenderDataService\bin\Release\netcoreapp1.1\BartenderDataService.dll
+C:\Users\gerryo\Documents\Visual Studio 2017\Projects\BartenderDataService\BartenderDataService\bin\Release\netcoreapp1.1\BartenderDataService.pdb
+C:\Users\gerryo\Documents\Visual Studio 2017\Projects\BartenderDataService\BartenderDataService\obj\Release\netcoreapp1.1\BartenderDataService.csprojResolveAssemblyReference.cache
+C:\Users\gerryo\Documents\Visual Studio 2017\Projects\BartenderDataService\BartenderDataService\obj\Release\netcoreapp1.1\BartenderDataService.AssemblyInfo.cs
+C:\Users\gerryo\Documents\Visual Studio 2017\Projects\BartenderDataService\BartenderDataService\obj\Release\netcoreapp1.1\BartenderDataService.dll
+C:\Users\gerryo\Documents\Visual Studio 2017\Projects\BartenderDataService\BartenderDataService\obj\Release\netcoreapp1.1\BartenderDataService.pdb
